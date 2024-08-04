@@ -4,3 +4,5 @@ Be sure in processing the data
 
 
 create an avatar for user
+
+create and avator for user
